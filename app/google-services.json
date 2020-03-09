@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366765830072",
+    "firebase_url": "https://e-kart-f9ea2.firebaseio.com",
+    "project_id": "e-kart-f9ea2",
+    "storage_bucket": "e-kart-f9ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366765830072:android:e34d4520bb6aec83b6294d",
+        "android_client_info": {
+          "package_name": "raghav.developer.e_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366765830072-itk5i1c8taiqqjp09qrbj7tot8qno7mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "raghav.developer.e_kart",
+            "certificate_hash": "b5b31c5ba6261be294d9c65492ae4c2066f92da3"
+          }
+        },
+        {
+          "client_id": "366765830072-ah3upoiml75dupqrli4auo34me5rb3c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1oX7xMAMOyJTw5uSffrY2adpxMM06rHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366765830072-ah3upoiml75dupqrli4auo34me5rb3c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
